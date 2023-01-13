@@ -4,14 +4,14 @@
 ![icon](https://item.kakaocdn.net/do/145e6bf1f7cc70a6d9dad443af101a70f43ad912ad8dd55b04db6a64cddaf76d)
 <br/>
 
-
 ## 맛집
 
-![junju](https://d12zq4w4guyljn.cloudfront.net/300_300_20220204140012_photo2_b8a3221308d3.jpg)
+
 #### 전주 개마고원 
 - 메뉴 : 낚지볶음, 아구찜, 해물찜
 - 웨이팅시간 : 점심 20~30분, 저녁 없음
 - 위치 : 전주 완산구 서신동 
+- ![junju](https://d12zq4w4guyljn.cloudfront.net/300_300_20220204140012_photo2_b8a3221308d3.jpg)
 <br> 
 <br> 
 <br> 
@@ -28,7 +28,7 @@
 
 
 
-![](https://ldb-phinf.pstatic.net/20151113_30/1447396114906PXg0R_JPEG/167063555853660_0.jpg)
+![](https://mblogthumb-phinf.pstatic.net/MjAyMDAyMDhfMjk5/MDAxNTgxMTI0ODUyNzU3.WK-jv3NNZWsTlB4gtO16XBuiEbxO-dHuhnD8OSmUbasg.aBIEu3zYo7h-qDF2L1hsz0usfwFxgvFIz9SzcSf5jHgg.JPEG.sniper98/%EC%A0%84%EC%A3%BC%EB%A7%9B%EC%A7%91.jpg?type=w800)
 #### 전주 조점례 남문 피순대
 - 메뉴 : 피순대, 순댓국
 - 웨이팅시간 : 평균 15분
@@ -51,7 +51,7 @@
 - *PNB풍년제과*
   - 메뉴 : 초코파이
   - 위치 : 전주 한옥마을 인근
-    ![](https://pup-review-phinf.pstatic.net/MjAyMzAxMTJfMTI5/MDAxNjczNDUxODczMTY5.lMx2heSjfB3lwPI8ooiEyfH2H9sdfumE94H1Il7ZgPIg.wDjEbVx4gGX5sl6l4-nLmA19WA0Go_Zr60i0H6sbE-gg.JPEG/20230109_131932.jpg)
+    ![](https://pnb1951.cafe24.com/web/pnb2020/%20box.png)
 
 ### **대전**
 ---
@@ -80,45 +80,44 @@
 
 ## **FOOD**
 
-### **서울**
----
 ### **전주**
 ---
-![junju](https://d12zq4w4guyljn.cloudfront.net/300_300_20220204140012_photo2_b8a3221308d3.jpg)
 - 전주 개마고원 
   - 메뉴 : 낚지볶음, 아구찜, 해물찜
   - 웨이팅시간 : 점심 20~30분, 저녁 없음
   - 위치 : 전주 완산구 서신동 
+  - ![junju](https://d12zq4w4guyljn.cloudfront.net/300_300_20220204140012_photo2_b8a3221308d3.jpg)
 <br> 
 <br> 
 <br> 
 
 
-![](https://pup-review-phinf.pstatic.net/MjAyMzAxMTBfMTA2/MDAxNjczMzU0MDYxNjQ3.NBGgl-yxgCxraCaNhMQjsI5vMsrRRqjUtxp_EOhXi3wg.jIpu6xxHsvYZQcxyL6Ckm5tcT9J-4yQ6DUgawHgmHp8g.JPEG/1673353776745-0.jpg)
 - 전주 현대옥 본점
   - 메뉴 : 콩나물국밥
   - 웨이팅시간 : 평균 30분
   - 전주 완산구 중화산동
+  - ![](https://pup-review-phinf.pstatic.net/MjAyMzAxMTBfMTA2/MDAxNjczMzU0MDYxNjQ3.NBGgl-yxgCxraCaNhMQjsI5vMsrRRqjUtxp_EOhXi3wg.jIpu6xxHsvYZQcxyL6Ckm5tcT9J-4yQ6DUgawHgmHp8g.JPEG/1673353776745-0.jpg)
 <br> 
 <br> 
 <br> 
 
 
 
-![](https://ldb-phinf.pstatic.net/20151113_30/1447396114906PXg0R_JPEG/167063555853660_0.jpg)
 - 전주 조점례 남문 피순대
   - 메뉴 : 피순대, 순댓국
   - 웨이팅시간 : 평균 15분
   - 위치 : 전주 남부시장
+  - ![](https://ldb-phinf.pstatic.net/20151113_30/1447396114906PXg0R_JPEG/167063555853660_0.jpg)
 <br> 
 <br> 
 <br> 
 
-![](https://ldb-phinf.pstatic.net/20210110_255/16102184980371iS1l_JPEG/6bdVXkyyb0lFksIyZezC-sVZ.jpg)
+
 - 전주 베테랑 칼국수
   - 메뉴 : 칼국수, 쫄면
   - 웨이팅시간 : 10분
   - 위치 전주 한옥마을
+  - ![](https://ldb-phinf.pstatic.net/20210110_255/16102184980371iS1l_JPEG/6bdVXkyyb0lFksIyZezC-sVZ.jpg)
 
 
 ### 대전

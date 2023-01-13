@@ -95,7 +95,7 @@
 - *태평소 국밥*
   - 메뉴 : 수육, 국밥, 내장탕
   - [주소링크](https://naver.me/FU39u9ps) 유성온천 인근
-  - ![img](https://thingool123.godohosting.com/data/goods/21/07/29/1000021873/1000021873_detail_05.jpg)
+   ![img](https://thingool123.godohosting.com/data/goods/21/07/29/1000021873/1000021873_detail_05.jpg)
 - *대전 손짜장 충남대점*
   - 메뉴 :중식
   - [주소링크](https://naver.me/GC2aQEeu) 유성온천 인근
@@ -107,9 +107,6 @@
   - [주소링크](https://naver.me/Gul0oyqN) 둔산동
 - *향미네 짬뽕*
   - 메뉴 : 짬뽕
-<<<<<<< HEAD
-  - [주소링크](https://naver.me/FrvGeZKB) 둔산동
-=======
   - 둔산동
 - *바르미샤브샤브*
   - 메뉴 : 샤브샤브
@@ -172,4 +169,3 @@
   - 메뉴 : 곱창
   - 인천 구월동
 
->>>>>>> 1547fe75a50a8ce3b9c53268d8c35fb1b8587c9c

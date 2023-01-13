@@ -36,7 +36,7 @@
 
 
 
-![](https://ldb-phinf.pstatic.net/20151113_30/1447396114906PXg0R_JPEG/167063555853660_0.jpg)
+![](https://mblogthumb-phinf.pstatic.net/MjAyMDAyMDhfMjk5/MDAxNTgxMTI0ODUyNzU3.WK-jv3NNZWsTlB4gtO16XBuiEbxO-dHuhnD8OSmUbasg.aBIEu3zYo7h-qDF2L1hsz0usfwFxgvFIz9SzcSf5jHgg.JPEG.sniper98/%EC%A0%84%EC%A3%BC%EB%A7%9B%EC%A7%91.jpg?type=w800)
 #### 전주 조점례 남문 피순대
 - 메뉴 : 피순대, 순댓국
 - 웨이팅시간 : 평균 15분

@@ -2,7 +2,7 @@
 <br/>
 
 ## 디저트
-![](https://pup-review-phinf.pstatic.net/MjAyMzAxMTJfMTI5/MDAxNjczNDUxODczMTY5.lMx2heSjfB3lwPI8ooiEyfH2H9sdfumE94H1Il7ZgPIg.wDjEbVx4gGX5sl6l4-nLmA19WA0Go_Zr60i0H6sbE-gg.JPEG/20230109_131932.jpg)
+![](https://pup-review-phinf.pstatic.net/MjAyMzAxMTJfMzgg/MDAxNjczNDUxODgwNzE5.ZNo_SukPKXNxVeDtJiCRYLZU6a98LhvjZTC1ETQBRrAg.lhcU05BjZ0Gks2vaFz7Zsy_dEEpzVnUfC-t60pghsC0g.JPEG/20230109_132048.jpg)
 #### 전주 PNB풍년제과
 - 메뉴 : 초코파이
 - 위치 : 전주 한옥마을 인근
@@ -11,9 +11,18 @@
 <br> 
 <br> 
 
+![](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTEyMDJfNjgg%2FMDAxNTc1MjgyNzQ1NjMw.uw1Jgso5OJr2BBpY6eSnc3WSw8Hor5dTtzcQlVTmBucg.LL7d7DRmGMCyi1N5VOgRawFkrB12atksS-psnq3baNog.JPEG.tnals15060%2FIMG_4342.JPG)
+#### 전주 어느날의 오후
+- 메뉴 : 케이크
+- 위치 : 전주 전북대학교
+<br> 
+<br> 
+<br> 
+<br> 
+
 ## 맛집
 
-![](https://ldb-phinf.pstatic.net/20220215_269/164485819250860Sls_JPEG/Screenshot_20220215-020229_NAVER.jpg)
+![](https://myplace-phinf.pstatic.net/20200701_272/1593578751948VEtuO_JPEG/upload_406e8c3b88030f68d56fc76b88e281ed.jpg)
 #### 전주 개마고원 
 - 메뉴 : 낚지볶음, 아구찜, 해물찜
 - 웨이팅시간 : 점심 20~30분, 저녁 없음
@@ -48,6 +57,23 @@
 - 메뉴 : 칼국수, 쫄면
 - 웨이팅시간 : 10분
 - 위치 전주 한옥마을
+<br> 
+<br> 
+<br> 
+
+
+![](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjExMDlfMzAw%2FMDAxNjY3OTg4NTIxOTIy.hXNv2kf9HQZsliUF1aUZwQy6Ge-hDBmfo5udvkRE7osg.dA8aDXcsMTZTmjYnYgI-AiF4_DeOwKMgjQQCRLn7hgwg.JPEG.frlend815%2F1664114422953.jpg)
+#### 전주 시라키
+- 메뉴 : 로스카츠, 히레카츠
+- 웨이팅시간 : 
+- 위치 전주 신시가지
+
+<br> 
+<br> 
+<br> 
+
+
+
 ## **DESSERT**
 
 ### **대전**
@@ -87,3 +113,4 @@
 - *향미네 짬뽕*
   - 메뉴 : 짬뽕
   - 둔산동
+

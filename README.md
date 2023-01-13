@@ -1,4 +1,4 @@
-# ☆최고의 맛집을 찾아서☆
+# ✨최고의 맛집을 찾아서✨
 <br/>
 
 ![icon](https://item.kakaocdn.net/do/145e6bf1f7cc70a6d9dad443af101a70f43ad912ad8dd55b04db6a64cddaf76d)

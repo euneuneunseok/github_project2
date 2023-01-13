@@ -27,7 +27,7 @@
 - 태평소 국밥
   - 메뉴 : 수육, 국밥, 내장탕
   - 유성온천 인근
-  ![img](https://thingool123.godohosting.com/data/goods/21/07/29/1000021873/1000021873_detail_05.jpg)
+   ![tae](https://thingool123.godohosting.com/data/goods/21/07/29/1000021873/1000021873_detail_05.jpg)
 - 대전 손짜장 충남대점
   - 메뉴 :중식
   - 유성온천 인근

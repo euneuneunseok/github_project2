@@ -4,7 +4,7 @@
 ![icon](https://item.kakaocdn.net/do/145e6bf1f7cc70a6d9dad443af101a70f43ad912ad8dd55b04db6a64cddaf76d)
 
 ## 디저트
-![](https://pup-review-phinf.pstatic.net/MjAyMzAxMTJfMTI5/MDAxNjczNDUxODczMTY5.lMx2heSjfB3lwPI8ooiEyfH2H9sdfumE94H1Il7ZgPIg.wDjEbVx4gGX5sl6l4-nLmA19WA0Go_Zr60i0H6sbE-gg.JPEG/20230109_131932.jpg)
+![](https://pnb1951.cafe24.com/web/pnb2020/%20box.png)
 #### 전주 PNB풍년제과
 - 메뉴 : 초코파이
 - 위치 : 전주 한옥마을 인근

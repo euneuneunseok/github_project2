@@ -15,7 +15,7 @@
 
 ## 맛집
 
-![](https://ldb-phinf.pstatic.net/20220215_269/164485819250860Sls_JPEG/Screenshot_20220215-020229_NAVER.jpg)
+![junju](https://d12zq4w4guyljn.cloudfront.net/300_300_20220204140012_photo2_b8a3221308d3.jpg)
 #### 전주 개마고원 
 - 메뉴 : 낚지볶음, 아구찜, 해물찜
 - 웨이팅시간 : 점심 20~30분, 저녁 없음

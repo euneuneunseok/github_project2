@@ -25,7 +25,7 @@
 <br> 
 
 
-![](https://pup-review-phinf.pstatic.net/MjAyMzAxMTBfMTA2/MDAxNjczMzU0MDYxNjQ3.NBGgl-yxgCxraCaNhMQjsI5vMsrRRqjUtxp_EOhXi3wg.jIpu6xxHsvYZQcxyL6Ckm5tcT9J-4yQ6DUgawHgmHp8g.JPEG/1673353776745-0.jpg)
+![](https://cdn.hkbs.co.kr/news/photo/201511/34d7fa78c079acb8f81e47b54efdbe67153636.jpg)
 #### 전주 현대옥 본점
 - 메뉴 : 콩나물국밥
 - 웨이팅시간 : 평균 30분
